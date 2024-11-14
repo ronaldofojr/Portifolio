@@ -27,5 +27,5 @@ Desenvolvedor Back-End com experiência em Java, especializado em atender client
 
 ## Contato
 - **E-mail**: ronaldofojr1@gmail.com
-- **LinkedIn**: https://linkedin.com/in/ronaldofojr
-- **GitHub**: https://github.com/ronaldofojr
+- **LinkedIn**: (https://linkedin.com/in/ronaldofojr)
+- **GitHub**: (https://github.com/ronaldofojr)
